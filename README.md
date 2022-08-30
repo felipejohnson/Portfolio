@@ -4,7 +4,7 @@
 
 <br>
 
-![Resultado final do projeto](https://www.evanderinacio.com/assets/images/Portfolio.png)
+![Resultado final do projeto](https://user-images.githubusercontent.com/112385665/187520918-a203bb0b-e611-43a5-b326-9003b1f4b2eb.png)
 
 <br>
 
@@ -12,7 +12,7 @@
 
 Meu portfolio criado com o objetivo de mostrar meus projetos ao longo da minha carreira.  
 
-- site final: [evanderinacio.com](https://www.evanderinacio.com/)
+- site final: [felipee-johnson](https://felipee-johnson.web.app/)
 
 ## 🚀 Tecnologias
 
@@ -32,38 +32,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="left">
  
- <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evander-inacio"/> 
- </a>
- 
- <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-000dff?style=for-the-badge&logo=Facebook&logoColor=FFFFFF&link=https://www.facebook.com/evandder.lopes"/> 
- </a>
- 
- <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/Evander_Inacio"/> 
+ <a href="https://www.instagram.com/felipee_johnsonn/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/felipee_johnsonn/"/> 
  </a>
 
-  <a href="https://www.evanderinacio.com/" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://www.evanderinacio.com/"/>
+<a href="https://felipee-johnson.web.app/" alt="Portfolio">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://felipee-johnson.web.app/"/>
  </a>
 
  </p>
- 
-## 💻 Autor<br>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/EvanderInacio">
-        <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
-        <sub>
-          <b>Evander Inácio</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://felipee-johnson.web.app/">Felipe Johnson</a> ☕</h3>
