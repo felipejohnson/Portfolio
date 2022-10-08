@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="left">
  
- <a href="https://www.instagram.com/felipee_johnsonn/" alt="Instagram">
+ <a href="https://www.instagram.com/felipee.johnson/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/felipee_johnsonn/"/> 
  </a>
 
