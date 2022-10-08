@@ -12,7 +12,7 @@
 
 Meu portfolio criado com o objetivo de mostrar meus projetos ao longo da minha carreira.  
 
-- site final: [felipee-johnson](https://felipee-johnson.web.app/)
+- site final: [felipejohnsonn.com](erro)
 
 ## 🚀 Tecnologias
 
@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollReveal](https://scrollrevealjs.org/)
+- [Firebase](https://firebase.google.com/)
 
 ## 🔗 Links
 
@@ -36,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/felipee_johnsonn/"/> 
  </a>
 
-<a href="https://felipee-johnson.web.app/" alt="Portfolio">
+<a href="erro" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://felipee-johnson.web.app/"/>
  </a>
 
@@ -45,4 +46,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://felipee-johnson.web.app/">Felipe Johnson</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://github.com/felipejohnson/">Felipe Johnson</a> ☕</h3>
